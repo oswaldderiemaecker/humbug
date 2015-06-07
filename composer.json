@@ -15,6 +15,9 @@
     "support": {
         "issues": "https://github.com/padraic/humbug/issues"
     },
+    "config": {
+        "bin-dir": "./"
+    },
     "require": {
         "php": ">=5.4.0",
         "phpunit/phpunit": "~4.5",
