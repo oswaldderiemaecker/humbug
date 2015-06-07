@@ -16,7 +16,7 @@
         "issues": "https://github.com/padraic/humbug/issues"
     },
     "config": {
-        "bin-dir": "./"
+        "bin-dir": "/usr/bin"
     },
     "require": {
         "php": ">=5.4.0",

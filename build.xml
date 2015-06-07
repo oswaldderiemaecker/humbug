@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-
-<project name="test" description="Simple test build file" default="main" >
-<target name="set_path" description="Set Vendor Path">
-    <exec command="sudo cp ./vendor/phpunit/phpunit/phpunit /usr/bin"/>
-</target>
-</project>
