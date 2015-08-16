@@ -30,7 +30,6 @@ nb-configuration.xml
 *.sublime-workspace
 
 build
-composer.lock
 docs
 vendor
 
